@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Amazon Product Page
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+An Amazon product page for a book, built with HTML and CSS. This was my second solo project from the Scrimba HTML and CSS Tutorial.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Design vs. Implementation
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+### Design Specifications
+![Design specifications for the Amazon product page](./designspecs.png)
 
-Happy Coding!
+### My Implementation
+![My implementation of the newsletter signup](./implementation.png)
+
+## Technologies Used
+- HTML5
+- CSS
+
+## What I Learned
+- How to match a design specification
+- Working with form elements
+- CSS layout and positioning
+- Border styling and color management
+- How to deploy a project to GitHub
+

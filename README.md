@@ -5,19 +5,18 @@ An Amazon product page for a book, built with HTML and CSS. This was my second s
 ## Design vs. Implementation
 
 ### Design Specifications
-![Design specifications for the Amazon product page](./designspecs.png)
+![Design specifications for the Amazon product page](./design_specs.png)
 
 ### My Implementation
-![My implementation of the newsletter signup](./implementation.png)
+![My implementation of the Amazon product page](./implementation.png)
 
 ## Technologies Used
 - HTML5
 - CSS
 
 ## What I Learned
-- How to match a design specification
-- Working with form elements
-- CSS layout and positioning
-- Border styling and color management
-- How to deploy a project to GitHub
+- Image alt texts
+- Flex child containers
+- Inheritance
+- Web safe fonts
 
